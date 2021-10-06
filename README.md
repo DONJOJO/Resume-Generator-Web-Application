@@ -1,0 +1,2 @@
+# Resume-Generator-Web-Application
+Designing and Implementing Resume Generator Web applications for Job Seekers &amp; Job Providers. This module aims to collect data from the user and Provides instant resumes to individuals and There are choices available for resume format for users as per their qualifications and requirements and also Provides quick access, update and make resume different formats
